@@ -1,0 +1,30 @@
+{
+    #h1,
+    "self_closing": false,
+    "content" : ["H1 title"]
+}
+{
+    #div, 
+    "self_closing": false, 
+    <"title" : "Title attribute", "style": "padding: 20px; background-color: lightgray">, 
+    "content": [
+        "Text content", 
+        {
+            #div, 
+            "self_closing": false, 
+            <"style" : "color: red; font-family: arial; font-size: 20px; text-shadow: 4px 4px 5px gray;">, 
+            "content": [
+                "Nested content text"
+            ]
+        }, 
+        {
+            #a, 
+            "self_closing": false, 
+            <"href": "https://www.google.com">,
+            "content": [
+                "Google link here"
+            ]
+        }, 
+        "... and more text content"
+    ]
+}

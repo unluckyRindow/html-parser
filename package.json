@@ -1,0 +1,15 @@
+{
+  "name": "html-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kacper Duda <kacperduda10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  }
+}
