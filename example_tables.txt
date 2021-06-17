@@ -1,0 +1,211 @@
+{
+    #html,
+    "self_closing": false,
+    "content": [
+        {
+            #head,
+            "self_closing": false
+            "content": [
+                {
+                    #style,
+                    "self_closing": false,
+                    "content": [
+                        "table {width:100%;} table, th, td {border: 1px solid black;border-collapse: collapse;}th, td {padding: 15px;text-align: left;}#t01 tr:nth-child(even) {background-color: #eee;}#t01 tr:nth-child(odd) {background-color: #fff;}#t01 th {background-color: black;color: white;}"
+                    ]
+                }
+            ]
+        },
+        {
+            #body,
+            "self_closing": false,
+            "content": [
+                {
+                    #h2,
+                    "self_closing": false,
+                    "content": ["Styling Tables"]
+                },
+                {
+                    #table,
+                    "self_closing": false,
+                    "content": [
+                        {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Firstname"]
+                                },
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Lastname"]
+                                },
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Age"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Jill"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Smith"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["50"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Eve"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Jackson"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["94"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["John"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Doe"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["80"]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    #table,
+                    "self_closing": false,
+                    <"id": "t01">
+                    "content": [
+                                            {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Firstname"]
+                                },
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Lastname"]
+                                },
+                                {
+                                    #th,
+                                    "self_closing": false,
+                                    "content": ["Age"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Jill"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Smith"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["50"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Eve"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Jackson"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["94"]
+                                }
+                            ]
+                        },
+                                                {
+                            #tr,
+                            "self_closing": false,
+                            "content": [
+                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["John"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["Doe"]
+                                },
+                                                                {
+                                    #td,
+                                    "self_closing": false,
+                                    "content": ["80"]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
